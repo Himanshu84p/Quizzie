@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Quizzie/static/css/main.f3372dce.css",
+    "main.js": "/Quizzie/static/js/main.77458e56.js",
+    "static/js/787.a672c9be.chunk.js": "/Quizzie/static/js/787.a672c9be.chunk.js",
+    "index.html": "/Quizzie/index.html",
+    "static/media/blob.svg": "/Quizzie/static/media/blob.d9167be0292481b2d2dd888bbe63759c.svg",
+    "static/media/blobs.svg": "/Quizzie/static/media/blobs.f0bad61d5f4c4b964a03e1db9fdfa633.svg",
+    "main.f3372dce.css.map": "/Quizzie/static/css/main.f3372dce.css.map",
+    "main.77458e56.js.map": "/Quizzie/static/js/main.77458e56.js.map",
+    "787.a672c9be.chunk.js.map": "/Quizzie/static/js/787.a672c9be.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3372dce.css",
+    "static/js/main.77458e56.js"
+  ]
+}
